@@ -1,0 +1,10 @@
+{
+  "redhat.telemetry.enabled": true,
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "": true
+  },
+  "editor.dragAndDrop": false,
+  "explorer.excludeGitIgnore": false
+}
